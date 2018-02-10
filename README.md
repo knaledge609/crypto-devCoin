@@ -30,4 +30,4 @@ To ensure that you are ready to code along, please follow the steps below:
 
 4. Install the Atom text editor. You can download it [here](https://atom.io).
 
-And that's it! We're so excited to have you join us and code along.
+And that's it!
