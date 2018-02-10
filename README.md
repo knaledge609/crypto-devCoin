@@ -1,4 +1,16 @@
-![](https://user-images.githubusercontent.com/19510456/36056621-e82fb666-0dd3-11e8-8b02-84ae16b4a6b4.png")
+<img width="1229" alt="screen shot devcoin" src="https://user-images.githubusercontent.com/19510456/36056696-8551180e-0dd4-11e8-85e0-1202997d9f7a.png">
+
+BEF0RE TRANSACTION: (Gathered Address to send crypto and Amount I would like to send)
+<img width="994" alt="screen shot before transaction" src="https://user-images.githubusercontent.com/19510456/36056729-d62b6c02-0dd4-11e8-9887-aabd216451ee.png">
+
+RESET, SUBMIT, OR REJECT: 
+<img width="1312" alt="screen shot dev-coin sending crypto" src="https://user-images.githubusercontent.com/19510456/36056768-343ea0fc-0dd5-11e8-86a5-6cc754dc6562.png">
+
+OTHER USER RECEIVES CRYPTO:
+<img width="1229" alt="screen shot investor" src="https://user-images.githubusercontent.com/19510456/36056777-50fc8830-0dd5-11e8-922a-0b828c1cfea4.png">
+
+TRANSACTION COMPLETE!:
+<img width="926" alt="screen shot trasaction complete" src="https://user-images.githubusercontent.com/19510456/36056794-7e250a12-0dd5-11e8-99b0-5fd2d71a5509.png">
 
 ## Getting Started
 
